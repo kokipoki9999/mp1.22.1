@@ -67,10 +67,10 @@ export function CatalogPage() {
               <div className="group cursor-pointer flex flex-col items-center text-center sm:items-start sm:text-left">
                 <div className="aspect-[4/5] bg-white overflow-hidden mb-3">
                   <img 
-                    src="/fancyfountaindecor.jpg"
+                    src="/fancyfountaindecor.webp"
                     alt="Tabletop Water Fountain"
-                    className="w-full h-full object-contain"
-                  />
+                    className="w-full h-full object-contain" loading="lazy" decoding="async" />
+                
                 </div>
                 <p className="text-xs text-black mt-1 mb-2">Tabletop Water Fountain</p>
                 <a 
@@ -87,10 +87,10 @@ export function CatalogPage() {
               <div className="group cursor-pointer flex flex-col items-center text-center sm:items-start sm:text-left">
                 <div className="aspect-[4/5] bg-white overflow-hidden mb-3">
                   <img 
-                    src="/rabbitfurthrow.png"
+                    src="/rabbitfurthrow.webp"
                     alt="The Yearly Favorite: The Bubble Throw Blanket"
-                    className="w-full h-full object-contain"
-                  />
+                    className="w-full h-full object-contain" loading="lazy" decoding="async" />
+                
                 </div>
                 <p className="text-xs text-black mt-1 mb-2">Plush Throw Blanket</p>
                 <a 
@@ -108,10 +108,10 @@ export function CatalogPage() {
               <div className="group cursor-pointer flex flex-col items-center text-center sm:items-start sm:text-left">
                 <div className="aspect-[4/5] bg-white overflow-hidden mb-3">
                   <img 
-                    src="/theolivetreefinal.png"
+                    src="/theolivetreefinal.webp"
                     alt="L'Olivier"
-                    className="w-full h-full object-contain"
-                  />
+                    className="w-full h-full object-contain" loading="lazy" decoding="async" />
+                
                 </div>
                 <p className="text-xs text-black mt-1 mb-2">Faux Olive Tree, Natural Trunk</p>
                 <a 
@@ -128,10 +128,10 @@ export function CatalogPage() {
               <div className="group cursor-pointer flex flex-col items-center text-center sm:items-start sm:text-left">
                 <div className="aspect-[4/5] bg-white overflow-hidden mb-3">
                   <img 
-                    src="/largestoragebasket.png"
+                    src="/largestoragebasket.webp"
                     alt="The Basket"
-                    className="w-full h-full object-contain"
-                  />
+                    className="w-full h-full object-contain" loading="lazy" decoding="async" />
+                
                 </div>
                 <p className="text-xs text-black mt-1 mb-2">Large Storage Basket</p>
                 <a 
@@ -148,10 +148,10 @@ export function CatalogPage() {
               <div className="group cursor-pointer flex flex-col items-center text-center sm:items-start sm:text-left">
                 <div className="aspect-[4/5] bg-white overflow-hidden mb-3">
                   <img 
-                    src="/triominivase.png"
+                    src="/triominivase.webp"
                     alt="The Small Trio"
-                    className="w-full h-full object-contain"
-                  />
+                    className="w-full h-full object-contain" loading="lazy" decoding="async" />
+                
                 </div>
                 <p className="text-xs text-black mt-1 mb-2">Matte Vase Set, 3pcs</p>
                 <a 
@@ -168,10 +168,10 @@ export function CatalogPage() {
               <div className="group cursor-pointer flex flex-col items-center text-center sm:items-start sm:text-left">
                 <div className="aspect-[4/5] bg-white overflow-hidden mb-3">
                   <img 
-                    src="/marblebowl.png"
+                    src="/marblebowl.webp"
                     alt="100% Natural, Heavy Marble Ruffle Bowl"
-                    className="w-full h-full object-contain"
-                  />
+                    className="w-full h-full object-contain" loading="lazy" decoding="async" />
+                
                 </div>
                 <p className="text-xs text-black mt-1 mb-2">Ruffle Bowl</p>
                 <a 
@@ -188,10 +188,10 @@ export function CatalogPage() {
               <div className="group cursor-pointer flex flex-col items-center text-center sm:items-start sm:text-left">
                 <div className="aspect-[4/5] bg-white overflow-hidden mb-3">
                   <img 
-                    src="/vaseluxenoir.png"
+                    src="/vaseluxenoir.webp"
                     alt="Large Ceramic Rustic Vase"
-                    className="w-full h-full object-contain"
-                  />
+                    className="w-full h-full object-contain" loading="lazy" decoding="async" />
+                
                 </div>
                 <p className="text-xs text-black mt-1 mb-2">Bronze Vase</p>
                 <a 
@@ -208,10 +208,10 @@ export function CatalogPage() {
               <div className="group cursor-pointer flex flex-col items-center text-center sm:items-start sm:text-left">
                 <div className="aspect-[4/5] bg-white overflow-hidden mb-3">
                   <img 
-                    src="/lampeclasse.png"
+                    src="/lampeclasse.webp"
                     alt="Large, Contemporary Mushroom Lamp (Brass)"
-                    className="w-full h-full object-contain"
-                  />
+                    className="w-full h-full object-contain" loading="lazy" decoding="async" />
+                
                 </div>
                 <p className="text-xs text-black mt-1 mb-2">Venus Mushroom Table Lamp</p>
                 <a 
@@ -228,10 +228,10 @@ export function CatalogPage() {
               <div className="group cursor-pointer flex flex-col items-center text-center sm:items-start sm:text-left">
                 <div className="aspect-[4/5] bg-white overflow-hidden mb-3">
                   <img 
-                    src="/pillowcovers.png"
+                    src="/pillowcovers.webp"
                     alt="Cream White, Soft Corduroy Pillow Cases"
-                    className="w-full h-full object-contain"
-                  />
+                    className="w-full h-full object-contain" loading="lazy" decoding="async" />
+                
                 </div>
                 <p className="text-xs text-black mt-1 mb-2">Corduroy Throw Pillow Covers</p>
                 <a 
@@ -248,10 +248,10 @@ export function CatalogPage() {
               <div className="group cursor-pointer flex flex-col items-center text-center sm:items-start sm:text-left">
                 <div className="aspect-[4/5] bg-white overflow-hidden mb-3">
                   <img 
-                    src="/bathroomset.png"
+                    src="/bathroomset.webp"
                     alt="Cream White, Bathroom Countertop Accessories"
-                    className="w-full h-full object-contain"
-                  />
+                    className="w-full h-full object-contain" loading="lazy" decoding="async" />
+                
                 </div>
                 <p className="text-xs text-black mt-1 mb-2">Bathroom Accessories Set, 4pcs</p>
                 <a 
@@ -268,10 +268,10 @@ export function CatalogPage() {
               <div className="group cursor-pointer flex flex-col items-center text-center sm:items-start sm:text-left">
                 <div className="aspect-[4/5] bg-white overflow-hidden mb-3">
                   <img 
-                    src="/ballaccent.png"
+                    src="/ballaccent.webp"
                     alt="Cream White, Accent Throw Pillow"
-                    className="w-full h-full object-contain"
-                  />
+                    className="w-full h-full object-contain" loading="lazy" decoding="async" />
+                
                 </div>
                 <p className="text-xs text-black mt-1 mb-2">Ball Throw Pillow</p>
                 <a 
@@ -288,10 +288,10 @@ export function CatalogPage() {
               <div className="group cursor-pointer flex flex-col items-center text-center sm:items-start sm:text-left">
                 <div className="aspect-[4/5] bg-white overflow-hidden mb-3">
                   <img 
-                    src="/swirlcandle.png"
+                    src="/swirlcandle.webp"
                     alt='"Swirl" Soy Wax Decor Candle'
-                    className="w-full h-full object-contain"
-                  />
+                    className="w-full h-full object-contain" loading="lazy" decoding="async" />
+                
                 </div>
                 <p className="text-xs text-black mt-1 mb-2">Sculptural Swirl Candle</p>
                 <a 
@@ -308,10 +308,10 @@ export function CatalogPage() {
               <div className="group cursor-pointer flex flex-col items-center text-center sm:items-start sm:text-left">
                 <div className="aspect-[4/5] bg-white overflow-hidden mb-3">
                   <img 
-                    src="/wide-belly-table-vase.png"
+                    src="/wide-belly-table-vase.webp"
                     alt="The Heart Vase"
-                    className="w-full h-full object-contain"
-                  />
+                    className="w-full h-full object-contain" loading="lazy" decoding="async" />
+                
                 </div>
                 <p className="text-xs text-black mt-1 mb-2">Wide-Belly 'Heart' Vase</p>
                 <a 
@@ -328,10 +328,10 @@ export function CatalogPage() {
               <div className="group cursor-pointer flex flex-col items-center text-center sm:items-start sm:text-left">
                 <div className="aspect-[4/5] bg-white overflow-hidden mb-3">
                   <img 
-                    src="/simplechair.png"
+                    src="/simplechair.webp"
                     alt="Accent Chair"
-                    className="w-full h-full object-contain"
-                  />
+                    className="w-full h-full object-contain" loading="lazy" decoding="async" />
+                
                 </div>
                 <p className="text-xs text-black mt-1 mb-2">Accent Chair</p>
                 <a 
@@ -348,10 +348,10 @@ export function CatalogPage() {
               <div className="group cursor-pointer flex flex-col items-center text-center sm:items-start sm:text-left">
                 <div className="aspect-[4/5] bg-white overflow-hidden mb-3">
                   <img 
-                    src="/chunky-knit-blanket.png"
+                    src="/chunky-knit-blanket.webp"
                     alt="Chunky Knit Throw Blanket"
-                    className="w-full h-full object-contain"
-                  />
+                    className="w-full h-full object-contain" loading="lazy" decoding="async" />
+                
                 </div>
                 <p className="text-xs text-black mt-1 mb-2">Chunky Knit Throw Blanket</p>
                 <a 
@@ -368,10 +368,10 @@ export function CatalogPage() {
               <div className="group cursor-pointer flex flex-col items-center text-center sm:items-start sm:text-left">
                 <div className="aspect-[4/5] bg-white overflow-hidden mb-3">
                   <img
-                    src="/funflannelmirror.png"
+                    src="/funflannelmirror.webp"
                     alt="Irregular Flannel-Wrapped Mirror"
-                    className="w-full h-full object-contain"
-                  />
+                    className="w-full h-full object-contain" loading="lazy" decoding="async" />
+                
                 </div>
                 <p className="text-xs text-black mt-1 mb-2">Irregular Flannel-Wrapped Mirror</p>
                 <a 
@@ -388,10 +388,10 @@ export function CatalogPage() {
               <div className="group cursor-pointer flex flex-col items-center text-center sm:items-start sm:text-left">
                 <div className="aspect-[4/5] bg-white overflow-hidden mb-3">
                   <img
-                    src="/ribbed-pillar-candle-set.png"
+                    src="/ribbed-pillar-candle-set.webp"
                     alt="Scented Ribbed Pillar Candle Set"
-                    className="w-full h-full object-contain"
-                  />
+                    className="w-full h-full object-contain" loading="lazy" decoding="async" />
+                
                 </div>
                 <p className="text-xs text-black mt-1 mb-2">Scented Pillar Candle Set, 2 pcs</p>
                 <a
@@ -408,10 +408,10 @@ export function CatalogPage() {
               <div className="group cursor-pointer flex flex-col items-center text-center sm:items-start sm:text-left">
                 <div className="aspect-[4/5] bg-white overflow-hidden mb-3">
                   <img
-                    src="/candleholders.png"
+                    src="/candleholders.webp"
                     alt="100% Travertine Stone Candle Holders From Turkey (Set of 2)"
-                    className="w-full h-full object-contain"
-                  />
+                    className="w-full h-full object-contain" loading="lazy" decoding="async" />
+                
                 </div>
                 <p className="text-xs text-black mt-1 mb-2">Travertine Candle Holder Set, 2 pcs</p>
                 <a
@@ -428,10 +428,10 @@ export function CatalogPage() {
               <div className="group cursor-pointer flex flex-col items-center text-center sm:items-start sm:text-left">
                 <div className="aspect-[4/5] bg-white overflow-hidden mb-3">
                   <img
-                    src="/tulip-stems-decor.jpg"
+                    src="/tulip-stems-decor.webp"
                     alt="Lifelike Tulip Stems"
-                    className="w-full h-full object-contain"
-                  />
+                    className="w-full h-full object-contain" loading="lazy" decoding="async" />
+                
                 </div>
                 <p className="text-xs text-black mt-1 mb-2">Faux Tulips, 20 pcs</p>
                 <a
@@ -448,10 +448,10 @@ export function CatalogPage() {
               <div className="group cursor-pointer flex flex-col items-center text-center sm:items-start sm:text-left">
                 <div className="aspect-[4/5] bg-white overflow-hidden mb-3">
                   <img
-                    src="/vintage-mirror copy.jpg"
+                    src="/vintage-mirror copy.webp"
                     alt="The Vintage Mirror"
-                    className="w-full h-full object-contain"
-                  />
+                    className="w-full h-full object-contain" loading="lazy" decoding="async" />
+                
                 </div>
                 <p className="text-xs text-black mt-1 mb-2">Gold Vintage Mirror</p>
                 <a
@@ -468,10 +468,10 @@ export function CatalogPage() {
               <div className="group cursor-pointer flex flex-col items-center text-center sm:items-start sm:text-left">
                 <div className="aspect-[4/5] bg-white overflow-hidden mb-3">
                   <img
-                    src="/faux-silk-peonies-for-decor-bedroom-wedding.png"
+                    src="/faux-silk-peonies-for-decor-bedroom-wedding.webp"
                     alt="Faux Silk Peonies"
-                    className="w-full h-full object-contain"
-                  />
+                    className="w-full h-full object-contain" loading="lazy" decoding="async" />
+                
                 </div>
                 <p className="text-xs text-black mt-1 mb-2">Faux Peonies</p>
                 <a
@@ -488,10 +488,10 @@ export function CatalogPage() {
               <div className="group cursor-pointer flex flex-col items-center text-center sm:items-start sm:text-left">
                 <div className="aspect-[4/5] bg-white overflow-hidden mb-3">
                   <img
-                    src="/contemporary-rustic-decorative-vase.png"
+                    src="/contemporary-rustic-decorative-vase.webp"
                     alt="Rustic Terracotta Vase"
-                    className="w-full h-full object-contain"
-                  />
+                    className="w-full h-full object-contain" loading="lazy" decoding="async" />
+                
                 </div>
                 <p className="text-xs text-black mt-1 mb-2">Terracotta Textured Vase</p>
                 <a
@@ -508,10 +508,10 @@ export function CatalogPage() {
               <div className="group cursor-pointer flex flex-col items-center text-center sm:items-start sm:text-left">
                 <div className="aspect-[4/5] bg-white overflow-hidden mb-3">
                   <img
-                    src="/contemporary-clear-smoked-plant-glass-vase.png"
+                    src="/contemporary-clear-smoked-plant-glass-vase.webp"
                     alt="Smoked Glass Vase"
-                    className="w-full h-full object-contain"
-                  />
+                    className="w-full h-full object-contain" loading="lazy" decoding="async" />
+                
                 </div>
                 <p className="text-xs text-black mt-1 mb-2">Smoked Glass Vase</p>
                 <a
@@ -528,10 +528,10 @@ export function CatalogPage() {
               <div className="group cursor-pointer flex flex-col items-center text-center sm:items-start sm:text-left">
                 <div className="aspect-[4/5] bg-white overflow-hidden mb-3">
                   <img
-                    src="/cherry-blossom-stems-decor-contemporary.png"
+                    src="/cherry-blossom-stems-decor-contemporary.webp"
                     alt="Sakura Branches"
-                    className="w-full h-full object-contain"
-                  />
+                    className="w-full h-full object-contain" loading="lazy" decoding="async" />
+                
                 </div>
                 <p className="text-xs text-black mt-1 mb-2">Sakura Branches</p>
                 <a
@@ -548,10 +548,10 @@ export function CatalogPage() {
               <div className="group cursor-pointer flex flex-col items-center text-center sm:items-start sm:text-left">
                 <div className="aspect-[4/5] bg-white overflow-hidden mb-3">
                   <img
-                    src="/kiku-flowers-decor-minimal-contemporary.png"
+                    src="/kiku-flowers-decor-minimal-contemporary.webp"
                     alt="Faux Kiku Flowers & Eucalyptus Arrangement"
-                    className="w-full h-full object-contain"
-                  />
+                    className="w-full h-full object-contain" loading="lazy" decoding="async" />
+                
                 </div>
                 <p className="text-xs text-black mt-1 mb-2">Faux Kiku Flowers & Eucalyptus Arrangement</p>
                 <a
@@ -568,10 +568,10 @@ export function CatalogPage() {
               <div className="group cursor-pointer flex flex-col items-center text-center sm:items-start sm:text-left">
                 <div className="aspect-[4/5] bg-white overflow-hidden mb-3">
                   <img
-                    src="/tall-black-brass-vase-duo.png"
+                    src="/tall-black-brass-vase-duo.webp"
                     alt="Set of Tall Single-Stem Vases"
-                    className="w-full h-full object-contain"
-                  />
+                    className="w-full h-full object-contain" loading="lazy" decoding="async" />
+                
                 </div>
                 <p className="text-xs text-black mt-1 mb-2">Tall Single-Stem Vase Set, 2pcs</p>
                 <a
@@ -588,10 +588,10 @@ export function CatalogPage() {
               <div className="group cursor-pointer flex flex-col items-center text-center sm:items-start sm:text-left">
                 <div className="aspect-[4/5] bg-white overflow-hidden mb-3">
                   <img
-                    src="/minimalist-accent-vase-trio.png"
+                    src="/minimalist-accent-vase-trio.webp"
                     alt="Stone-Look Vase Trio"
-                    className="w-full h-full object-contain"
-                  />
+                    className="w-full h-full object-contain" loading="lazy" decoding="async" />
+                
                 </div>
                 <p className="text-xs text-black mt-1 mb-2">Stone-Look Vase Set, 3pcs</p>
                 <a
@@ -608,10 +608,10 @@ export function CatalogPage() {
               <div className="group cursor-pointer flex flex-col items-center text-center sm:items-start sm:text-left">
                 <div className="aspect-[4/5] bg-white overflow-hidden mb-3">
                   <img
-                    src="/contemporary-buffet-sideboard.png"
+                    src="/contemporary-buffet-sideboard.webp"
                     alt="Accent Sideboard"
-                    className="w-full h-full object-contain"
-                  />
+                    className="w-full h-full object-contain" loading="lazy" decoding="async" />
+                
                 </div>
                 <p className="text-xs text-black mt-1 mb-2">Brown Buffet Cabinet</p>
                 <a
@@ -628,10 +628,10 @@ export function CatalogPage() {
               <div className="group cursor-pointer flex flex-col items-center text-center sm:items-start sm:text-left">
                 <div className="aspect-[4/5] bg-white overflow-hidden mb-3">
                   <img
-                    src="/wall-art-panels-decor.png"
+                    src="/wall-art-panels-decor.webp"
                     alt="Framed Wall Art Panels"
-                    className="w-full h-full object-contain"
-                  />
+                    className="w-full h-full object-contain" loading="lazy" decoding="async" />
+                
                 </div>
                 <p className="text-xs text-black mt-1 mb-2">Framed Wall Art Panels</p>
                 <a
@@ -648,10 +648,10 @@ export function CatalogPage() {
               <div className="group cursor-pointer flex flex-col items-center text-center sm:items-start sm:text-left">
                 <div className="aspect-[4/5] bg-white overflow-hidden mb-3">
                   <img
-                    src="/art-deco-table-vase-decor.jpg"
+                    src="/art-deco-table-vase-decor.webp"
                     alt='Sculptural "Coral" Vase'
-                    className="w-full h-full object-contain"
-                  />
+                    className="w-full h-full object-contain" loading="lazy" decoding="async" />
+                
                 </div>
                 <p className="text-xs text-black mt-1 mb-2">Sculptural 'Coral' Vase</p>
                 <a
@@ -668,10 +668,10 @@ export function CatalogPage() {
               <div className="group cursor-pointer flex flex-col items-center text-center sm:items-start sm:text-left">
                 <div className="aspect-[4/5] bg-white overflow-hidden mb-3">
                   <img
-                    src="/calla-lily-faux-flower-decor copy.png"
+                    src="/calla-lily-faux-flower-decor copy.webp"
                     alt="Lys Calla Flowers"
-                    className="w-full h-full object-contain"
-                  />
+                    className="w-full h-full object-contain" loading="lazy" decoding="async" />
+                
                 </div>
                 <p className="text-xs text-black mt-1 mb-2">Faux Calla Lilies</p>
                 <a
@@ -688,10 +688,10 @@ export function CatalogPage() {
               <div className="group cursor-pointer flex flex-col items-center text-center sm:items-start sm:text-left">
                 <div className="aspect-[4/5] bg-white overflow-hidden mb-3">
                   <img
-                    src="/modern-tv-stand.png"
+                    src="/modern-tv-stand.webp"
                     alt="Fluted TV Stand"
-                    className="w-full h-full object-contain"
-                  />
+                    className="w-full h-full object-contain" loading="lazy" decoding="async" />
+                
                 </div>
                 <p className="text-xs text-black mt-1 mb-2">Walker Edison TV Console</p>
                 <a
@@ -708,10 +708,10 @@ export function CatalogPage() {
               <div className="group cursor-pointer flex flex-col items-center text-center sm:items-start sm:text-left">
                 <div className="aspect-[4/5] bg-white overflow-hidden mb-3">
                   <img
-                    src="/accent-wall-mirror-contemporary.png"
+                    src="/accent-wall-mirror-contemporary.webp"
                     alt="Accent Mirror"
-                    className="w-full h-full object-contain"
-                  />
+                    className="w-full h-full object-contain" loading="lazy" decoding="async" />
+                
                 </div>
                 <p className="text-xs text-black mt-1 mb-2">Gold Asymmetrical Mirror</p>
                 <a
@@ -728,10 +728,10 @@ export function CatalogPage() {
               <div className="group cursor-pointer flex flex-col items-center text-center sm:items-start sm:text-left">
                 <div className="aspect-[4/5] bg-white overflow-hidden mb-3">
                   <img
-                    src="/wall-decor-contemporary.png"
+                    src="/wall-decor-contemporary.webp"
                     alt="Coral Wall Art"
-                    className="w-full h-full object-contain"
-                  />
+                    className="w-full h-full object-contain" loading="lazy" decoding="async" />
+                
                 </div>
                 <p className="text-xs text-black mt-1 mb-2">Textured 'Coral' Wall Art</p>
                 <a
@@ -748,10 +748,10 @@ export function CatalogPage() {
               <div className="group cursor-pointer flex flex-col items-center text-center sm:items-start sm:text-left">
                 <div className="aspect-[4/5] bg-white overflow-hidden mb-3">
                   <img
-                    src="/end-table-decor-modern.png"
+                    src="/end-table-decor-modern.webp"
                     alt="Fluted End Table"
-                    className="w-full h-full object-contain"
-                  />
+                    className="w-full h-full object-contain" loading="lazy" decoding="async" />
+                
                 </div>
                 <p className="text-xs text-black mt-1 mb-2">Fluted Side Table</p>
                 <a
@@ -768,10 +768,10 @@ export function CatalogPage() {
               <div className="group cursor-pointer flex flex-col items-center text-center sm:items-start sm:text-left">
                 <div className="aspect-[4/5] bg-white overflow-hidden mb-3">
                   <img
-                    src="/coffee-table-living-room.png"
+                    src="/coffee-table-living-room.webp"
                     alt="Fluted Coffee Table"
-                    className="w-full h-full object-contain"
-                  />
+                    className="w-full h-full object-contain" loading="lazy" decoding="async" />
+                
                 </div>
                 <p className="text-xs text-black mt-1 mb-2">Fluted Coffee Table</p>
                 <a
@@ -788,10 +788,10 @@ export function CatalogPage() {
               <div className="group cursor-pointer flex flex-col items-center text-center sm:items-start sm:text-left">
                 <div className="aspect-[4/5] bg-white overflow-hidden mb-3">
                   <img
-                    src="/clear-accent-decor-vases.png"
+                    src="/clear-accent-decor-vases.webp"
                     alt="Bulb Vases"
-                    className="w-full h-full object-contain"
-                  />
+                    className="w-full h-full object-contain" loading="lazy" decoding="async" />
+                
                 </div>
                 <p className="text-xs text-black mt-1 mb-2">Bulb Vases</p>
                 <a
@@ -808,10 +808,10 @@ export function CatalogPage() {
               <div className="group cursor-pointer flex flex-col items-center text-center sm:items-start sm:text-left">
                 <div className="aspect-[4/5] bg-white overflow-hidden mb-3">
                   <img
-                    src="/rattan-buffet-cabinets.png"
+                    src="/rattan-buffet-cabinets.webp"
                     alt="'Kova' Rattan Sideboard Cabinets"
-                    className="w-full h-full object-contain"
-                  />
+                    className="w-full h-full object-contain" loading="lazy" decoding="async" />
+                
                 </div>
                 <p className="text-xs text-black mt-1 mb-2">'Kova' Rattan Sideboard Cabinets</p>
                 <a
@@ -828,10 +828,10 @@ export function CatalogPage() {
               <div className="group cursor-pointer flex flex-col items-center text-center sm:items-start sm:text-left">
                 <div className="aspect-[4/5] bg-white overflow-hidden mb-3">
                   <img
-                    src="/full-lenght-arched-mirror.png"
+                    src="/full-lenght-arched-mirror.webp"
                     alt="Full Length Arched Mirror"
-                    className="w-full h-full object-contain"
-                  />
+                    className="w-full h-full object-contain" loading="lazy" decoding="async" />
+                
                 </div>
                 <p className="text-xs text-black mt-1 mb-2">Full Length Arched Mirror</p>
                 <a
@@ -848,10 +848,10 @@ export function CatalogPage() {
               <div className="group cursor-pointer flex flex-col items-center text-center sm:items-start sm:text-left">
                 <div className="aspect-[4/5] bg-white overflow-hidden mb-3">
                   <img
-                    src="/sherpa-accent-chairs-set.png"
+                    src="/sherpa-accent-chairs-set.webp"
                     alt="Sherpa Accent Chairs, Set of 2"
-                    className="w-full h-full object-contain"
-                  />
+                    className="w-full h-full object-contain" loading="lazy" decoding="async" />
+                
                 </div>
                 <p className="text-xs text-black mt-1 mb-2">Sherpa Accent Chairs, Set of 2</p>
                 <a
@@ -868,10 +868,10 @@ export function CatalogPage() {
               <div className="group cursor-pointer flex flex-col items-center text-center sm:items-start sm:text-left">
                 <div className="aspect-[4/5] bg-white overflow-hidden mb-3">
                   <img
-                    src="/bathroom-modern-wood-tray.png"
+                    src="/bathroom-modern-wood-tray.webp"
                     alt="Bathroom Tray"
-                    className="w-full h-full object-contain"
-                  />
+                    className="w-full h-full object-contain" loading="lazy" decoding="async" />
+                
                 </div>
                 <p className="text-xs text-black mt-1 mb-2">Bathroom Tray</p>
                 <a
@@ -888,10 +888,10 @@ export function CatalogPage() {
               <div className="group cursor-pointer flex flex-col items-center text-center sm:items-start sm:text-left">
                 <div className="aspect-[4/5] bg-white overflow-hidden mb-3">
                   <img
-                    src="/accent-ledge-shelve.png"
+                    src="/accent-ledge-shelve.webp"
                     alt="Scalloped Shelf Set, 2 pcs"
-                    className="w-full h-full object-contain"
-                  />
+                    className="w-full h-full object-contain" loading="lazy" decoding="async" />
+                
                 </div>
                 <p className="text-xs text-black mt-1 mb-2">Scalloped Shelf Set, 2 pcs</p>
                 <a
@@ -908,10 +908,10 @@ export function CatalogPage() {
               <div className="group cursor-pointer flex flex-col items-center text-center sm:items-start sm:text-left">
                 <div className="aspect-[4/5] bg-white overflow-hidden mb-3">
                   <img
-                    src="/stone-tray-decor.png"
+                    src="/stone-tray-decor.webp"
                     alt="Travertine Tray"
-                    className="w-full h-full object-contain"
-                  />
+                    className="w-full h-full object-contain" loading="lazy" decoding="async" />
+                
                 </div>
                 <p className="text-xs text-black mt-1 mb-2">Travertine Tray</p>
                 <a
