@@ -903,6 +903,26 @@ export function CatalogPage() {
                   Amazon Link
                 </a>
               </div>
+
+              {/* Forty-Third Product - Travertine Tray */}
+              <div className="group cursor-pointer flex flex-col items-center text-center sm:items-start sm:text-left">
+                <div className="aspect-[4/5] bg-white overflow-hidden mb-3">
+                  <img
+                    src="/stone-tray-decor.png"
+                    alt="Travertine Tray"
+                    className="w-full h-full object-contain"
+                  />
+                </div>
+                <p className="text-xs text-black mt-1 mb-2">Travertine Tray</p>
+                <a
+                  href="https://www.amazon.com/Koville-Travertine-Decorative-Countertop-Organizer/dp/B0C4KQF1V8?pd_rd_w=b7YaG&content-id=amzn1.sym.3d5af8a3-cce9-42ea-9ba5-183bb8c2673b&pf_rd_p=3d5af8a3-cce9-42ea-9ba5-183bb8c2673b&pf_rd_r=0BH2BDVFYFT77TBQBMRA&pd_rd_wg=9NZx4&pd_rd_r=c715515f-76b0-4eec-81fb-384afebd39f7&pd_rd_i=B0C4KQF1V8&th=1&linkCode=ll2&tag=maisonpacem05-20&linkId=4e99170fbafefefae8992bff520f85f5&language=en_US&gaOptInStatus=true&ref_=as_li_ss_tl"
+                  target="_blank"
+                  rel="noopener noreferrer"
+                  className="mt-2 inline-flex items-center gap-1.5 text-[10px] text-gray-600 underline underline-offset-2 transition-colors hover:text-gray-500"
+                >
+                  Amazon Link
+                </a>
+              </div>
             </div>
           </div>
         </div>
