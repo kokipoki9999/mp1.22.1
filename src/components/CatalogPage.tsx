@@ -986,6 +986,26 @@ export function CatalogPage() {
                   Amazon Link
                 </a>
               </div>
+
+              {/* Forty-Fifth Product - Black & White Striped Hand Towels */}
+              <div className="group cursor-pointer flex flex-col items-center text-center sm:items-start sm:text-left">
+                <div className="aspect-[4/5] bg-white overflow-hidden mb-3">
+                  <img
+                    src="/striped-bathroom-hand-towels.png"
+                    alt="Black & White Striped Hand Towels"
+                    className="w-full h-full object-contain"
+                  />
+                </div>
+                <p className="text-xs text-black mt-1 mb-2">Black & White Striped Hand Towels</p>
+                <a
+                  href="https://www.amazon.com/Jacquotha-Striped-Bathroom-Vintage-Kitchen/dp/B0F2SGPR4X?crid=TN5900SEDDP2&dib=eyJ2IjoiMSJ9.aLZuYaQvg4hoALb8zgsftxpLegq4_slfp-d9igiGRd0L4U1vRXS_8oX9f_VLWQOoGEkdtvXkaEAIs-3_puAbScov7dh4CM7xy3q_v00QBqGsuQnI5ICnlWPyQwLKtuZs5UtuPZ5k4q_N09lLWyxo6O8o8KtrCMnewjudjK6oI8JIQTnj-_JPEJtcjbPuVRQuBsBPltPpYXqSP9bA01h8hwnWJcF0EIoYwYuXDuegkiTwOws3C0N8tT20kAEa-RfECiyxuMhUjxbxrb04ZuzrBh12uTlNo0SW1_aMtvl9R3Q.NB81l4W6rFKDW6mXixV7v08r8Iem8rMsx8mqsnshSlc&dib_tag=se&keywords=striped%2Btowels&qid=1788834685&s=home-garden&sprefix=striped%2Btowel%2Cgarden%2C154&sr=1-6&th=1&linkCode=ll2&tag=maisonpacem05-20&linkId=147cd8929993400012cdf3d3330eede8&language=en_US&gaOptInStatus=true&ref_=as_li_ss_tl"
+                  target="_blank"
+                  rel="noopener noreferrer"
+                  className="mt-2 inline-flex items-center gap-1.5 text-[10px] text-gray-600 underline underline-offset-2 transition-colors hover:text-gray-500"
+                >
+                  Amazon Link
+                </a>
+              </div>
             </div>
           </div>
         </div>
