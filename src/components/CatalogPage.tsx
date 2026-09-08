@@ -966,6 +966,26 @@ export function CatalogPage() {
                   Amazon Link
                 </a>
               </div>
+
+              {/* Forty-Fourth Product - Faux Anthurium Flowers */}
+              <div className="group cursor-pointer flex flex-col items-center text-center sm:items-start sm:text-left">
+                <div className="aspect-[4/5] bg-white overflow-hidden mb-3">
+                  <img
+                    src="/faux-anthurium-flowers.png"
+                    alt="Faux Anthurium Flowers"
+                    className="w-full h-full object-contain"
+                  />
+                </div>
+                <p className="text-xs text-black mt-1 mb-2">Faux Anthurium Flowers</p>
+                <a
+                  href="https://www.amazon.com/dp/B0G2X1ZHY3?pd_rd_i=B0G2X5VLWK&pd_rd_w=8gN92&content-id=amzn1.sym.17345c9b-ef8c-4a79-bcd9-8894b1e1e0ea&pf_rd_p=17345c9b-ef8c-4a79-bcd9-8894b1e1e0ea&pf_rd_r=M27A348178XVSSZ0T4NZ&pd_rd_wg=BxEe5&pd_rd_r=3a5ebed4-e5c4-450b-a95c-c3ac7478e179&sp_csd=d2lkZ2V0TmFtZT1zcF9kZXRhaWw&th=1&linkCode=ll2&tag=maisonpacem05-20&linkId=f0a75956daa321bcdc5ac5163a71faa2&language=en_US&gaOptInStatus=true&ref_=as_li_ss_tl"
+                  target="_blank"
+                  rel="noopener noreferrer"
+                  className="mt-2 inline-flex items-center gap-1.5 text-[10px] text-gray-600 underline underline-offset-2 transition-colors hover:text-gray-500"
+                >
+                  Amazon Link
+                </a>
+              </div>
             </div>
           </div>
         </div>
