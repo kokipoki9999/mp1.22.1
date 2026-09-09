@@ -1026,6 +1026,26 @@ export function CatalogPage() {
                   Amazon Link
                 </a>
               </div>
+
+              {/* Forty-Seventh Product - Brown & Cream Zebra Rug */}
+              <div className="group cursor-pointer flex flex-col items-center text-center sm:items-start sm:text-left">
+                <div className="aspect-[4/5] bg-white overflow-hidden mb-3">
+                  <img
+                    src="/zebra-area-rug.png"
+                    alt="Brown & Cream Zebra Rug"
+                    className="w-full h-full object-contain"
+                  />
+                </div>
+                <p className="text-xs text-black mt-1 mb-2">Brown & Cream Zebra Rug</p>
+                <a
+                  href="https://www.amazon.com/Vergin-Zebra-Wool-Kaaleen-Bhaiya/dp/B0D8Z24YP4?ie=UTF8&th=1&linkCode=ll2&tag=maisonpacem05-20&linkId=854d89cae6ba352004d31d7e3f83a135&language=en_US&gaOptInStatus=true&ref_=as_li_ss_tl"
+                  target="_blank"
+                  rel="noopener noreferrer"
+                  className="mt-2 inline-flex items-center gap-1.5 text-[10px] text-gray-600 underline underline-offset-2 transition-colors hover:text-gray-500"
+                >
+                  Amazon Link
+                </a>
+              </div>
             </div>
           </div>
         </div>
